@@ -1,0 +1,8 @@
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\bin\Debug\netcoreapp2.2\SubsTrainingRedis.deps.json
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\bin\Debug\netcoreapp2.2\SubsTrainingRedis.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\bin\Debug\netcoreapp2.2\SubsTrainingRedis.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\bin\Debug\netcoreapp2.2\SubsTrainingRedis.dll
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\obj\Debug\netcoreapp2.2\SubsTrainingRedis.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\obj\Debug\netcoreapp2.2\SubsTrainingRedis.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\obj\Debug\netcoreapp2.2\SubsTrainingRedis.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\oracle-redis\SubsTrainingRedis\SubsTrainingRedis\obj\Debug\netcoreapp2.2\SubsTrainingRedis.AssemblyInfo.cs

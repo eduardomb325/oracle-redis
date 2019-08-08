@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SubsTrainingRedis/.vs/SubsTrainingRedis/DesignTimeBuild
+/SubsTrainingRedis/.vs/SubsTrainingRedis/v16/Server/sqlite3

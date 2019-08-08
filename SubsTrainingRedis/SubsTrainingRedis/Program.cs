@@ -1,4 +1,5 @@
 ﻿using System;
+using StackExchange.Redis;
 
 namespace SubsTrainingRedis
 {
@@ -6,7 +7,15 @@ namespace SubsTrainingRedis
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var connString = "localhost";
+
+            var redisConnection = ConnectionMultiplexer.Connect(connString);
+
+            IDatabase db = redisConnection.GetDatabase();
+
+            var pub = redisConnection.GetSubscriber();
+
+            pub.Publish("net15", "helloooo");
         }
     }
 }
